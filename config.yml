@@ -1,0 +1,5 @@
+mainprefix: "برفكس بوت"
+defaultjoinmessage: "**{user} Joined Invited By {Inviter} (Invites: {inv})**"
+defaultleavemessage: "**{user} Left, Invited by {inviter}**"
+token: "توكن بوت"
+color: "BLUE"
